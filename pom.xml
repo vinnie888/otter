@@ -383,7 +383,7 @@
 				<version>2.5</version>
 				<configuration>
 					<testNGArtifactName>org.testng:testng</testNGArtifactName>
-					<argLine>-javaagent:"${settings.localRepository}/mockit/jmockit/0.999.10/jmockit-0.999.10.jar"</argLine>
+					<argLine>-javaagent:"${settings.localRepository}/com/googlecode/jmockit/jmockit/0.999.11/jmockit-0.999.11.jar"</argLine>
 					<useSystemClassLoader>true</useSystemClassLoader>
 					<suiteXmlFiles>
 					</suiteXmlFiles>
